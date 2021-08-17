@@ -1,4 +1,4 @@
-# Just Tech News
+# just-tech-news
 
 ## Description
 
@@ -10,9 +10,7 @@ A tech news website where users can post, upvote, and comment on links to news a
   - [Table of Contents](#table-of-contents)
   - [Installation](#installation)
   - [Usage](#usage)
-  - [Credits](#credits)
-  - [Contributing](#contributing)
-  - [Tests](#tests)
+  - [Contributions](#contributions)
   - [Questions](#questions)
 
 ## Installation
@@ -23,36 +21,15 @@ npm install express sequelize mysql2
 
 ## Usage
 
+To invoke the application, type this in the command-line: 
+
 ```bash
 node server.js
 ```
 
-## Credits
-[Heroku](https://dashboard.heroku.com/)
+## Contributions
 
-[JawsDB MySQL](https://elements.heroku.com/addons/jawsdb)
-
-[Sequalize](https://www.npmjs.com/package/sequelize)
-
-[bcrypt](https://www.npmjs.com/package/bcrypt)
-
-[dotenv](https://www.npmjs.com/package/dotenv)
-
-[Learn more about O/RM](https://en.wikipedia.org/wiki/Object%E2%80%93relational_mapping)
-
-## License
-
-None
-
-## Contributing 
-
-Create a pull request to contribute!
-
-## Tests
-
-```bash
-npm start
-``` 
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 ## Questions
 
